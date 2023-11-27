@@ -2,6 +2,9 @@
 
 # 🎄 Advent of Code {year}
 
+[![eemoji](https://img.shields.io/badge/😎%20eemoji-fccf1d?style=for-the-badge)](
+  https://github.com/Rettend/eemoji)
+
 Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
 
 <!--- advent_readme_stars table --->
